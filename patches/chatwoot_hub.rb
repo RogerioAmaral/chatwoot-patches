@@ -8,7 +8,7 @@ module Enterprise::ChatwootHub
   end
 
   def pricing_plan
-    'premium'
+    'enterprise'
   end
 
   def pricing_plan_quantity
